@@ -1,1 +1,1 @@
-Quality_movie_data_Analyisis_project
+Quality_movie_data_Analysis_project
